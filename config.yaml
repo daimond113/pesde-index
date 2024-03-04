@@ -1,0 +1,3 @@
+api: "https://registry.pesde.daimond113.com"
+download: "{API_URL}/v0/packages/{PACKAGE_AUTHOR}/{PACKAGE_NAME}/{PACKAGE_VERSION}"
+github_oauth_client_id: "a1d648966fdfbdcd9295"
