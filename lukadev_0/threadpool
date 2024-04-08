@@ -1,0 +1,10 @@
+- version: 1.0.0
+  realm: shared
+  published_at: 2024-04-08T15:17:07.986858323Z
+  description: Spawn threads using a thread pool
+  dependencies:
+    std:
+    - name: lukadev_0/std
+      version: ^1.0.0
+      index: https://github.com/daimond113/pesde-index
+    - normal
