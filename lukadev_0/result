@@ -1,0 +1,4 @@
+- version: 1.0.0
+  realm: shared
+  published_at: 2024-04-08T15:14:20.067338846Z
+  description: Result<T, E> type in Luau
