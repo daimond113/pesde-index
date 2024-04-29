@@ -2,3 +2,7 @@
   realm: shared
   published_at: 2024-04-08T15:14:07.496961814Z
   description: Option<T> type in Luau
+- version: 1.1.0
+  realm: shared
+  published_at: 2024-04-29T19:04:59.569334491Z
+  description: Option<T> type in Luau
