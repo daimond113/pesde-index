@@ -2,3 +2,13 @@
   realm: shared
   published_at: 2024-05-05T19:13:52.723792020Z
   description: A pure Luau signal implementation, based on LemonSignal & robloxs signal-lua. With thread reuse as an option that can be used with the constructors.
+- version: 0.1.1
+  realm: shared
+  published_at: 2024-05-05T19:18:31.796381309Z
+  description: A pure Luau signal implementation, based on LemonSignal & robloxs signal-lua. With thread reuse as an option that can be used with the constructors.
+  dependencies:
+    metaize:
+    - name: kalrnlo/metaize
+      version: ^0.1.0
+      index: https://github.com/daimond113/pesde-index
+    - normal
