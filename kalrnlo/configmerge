@@ -2,3 +2,7 @@
   realm: shared
   published_at: 2024-05-05T19:15:30.522774553Z
   description: utility function for merging a new config, with an existing config
+- version: 0.1.1
+  realm: shared
+  published_at: 2024-05-05T19:43:11.014995570Z
+  description: utility function for merging a new config, with an existing config
