@@ -1,0 +1,4 @@
+- version: 0.1.0
+  realm: shared
+  published_at: 2024-05-05T19:15:05.645999387Z
+  description: a utility module for working with robloxs TextChatService
