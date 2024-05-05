@@ -1,0 +1,4 @@
+- version: 0.1.0
+  realm: shared
+  published_at: 2024-05-05T19:13:52.723792020Z
+  description: A pure Luau signal implementation, based on LemonSignal & robloxs signal-lua. With thread reuse as an option that can be used with the constructors.
