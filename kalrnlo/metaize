@@ -2,3 +2,7 @@
   realm: shared
   published_at: 2024-05-05T19:14:40.526885588Z
   description: utility function for making classes
+- version: 0.1.1
+  realm: shared
+  published_at: 2024-05-05T19:42:49.671393573Z
+  description: utility function for making classes
