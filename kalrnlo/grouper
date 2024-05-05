@@ -1,0 +1,15 @@
+- version: 0.1.0
+  realm: server
+  published_at: 2024-05-05T19:20:04.497729091Z
+  description: module for easily getting up to date ranks of players in a group on the server
+  dependencies:
+    callbacker:
+    - name: kalrnlo/callbacker
+      version: ^0.1.0
+      index: https://github.com/daimond113/pesde-index
+    - normal
+    configmerge:
+    - name: kalrnlo/configmerge
+      version: ^0.1.0
+      index: https://github.com/daimond113/pesde-index
+    - normal
