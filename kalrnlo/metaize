@@ -14,3 +14,7 @@
   realm: shared
   published_at: 2024-05-07T15:25:11.594606483Z
   description: utility function for making classes
+- version: 0.1.4
+  realm: shared
+  published_at: 2024-05-07T15:29:17.947523389Z
+  description: utility function for making classes
