@@ -1,0 +1,4 @@
+- version: 0.1.0
+  realm: shared
+  published_at: 2024-05-07T15:17:03.547176567Z
+  description: a port of fastest-levinstein to luau, with added functions for convenience
