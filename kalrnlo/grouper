@@ -58,3 +58,18 @@
       version: ^0.1.2
       index: https://github.com/daimond113/pesde-index
     - normal
+- version: 0.1.4
+  realm: server
+  published_at: 2024-05-07T15:29:54.762197459Z
+  description: module for easily getting up to date ranks of players in a group on the server
+  dependencies:
+    callbacker:
+    - name: kalrnlo/callbacker
+      version: ^0.1.5
+      index: https://github.com/daimond113/pesde-index
+    - normal
+    configmerge:
+    - name: kalrnlo/configmerge
+      version: ^0.1.2
+      index: https://github.com/daimond113/pesde-index
+    - normal
