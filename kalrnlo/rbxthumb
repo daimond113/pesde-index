@@ -6,3 +6,7 @@
   realm: shared
   published_at: 2024-05-05T19:42:36.153675823Z
   description: module for easily creating roblox thumbnail urls, based on nevermores rbxthumbutil
+- version: 0.1.2
+  realm: shared
+  published_at: 2024-05-07T15:09:56.405925162Z
+  description: module for easily creating roblox thumbnail urls, based on nevermores rbxthumbutil
