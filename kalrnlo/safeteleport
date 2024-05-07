@@ -1,0 +1,10 @@
+- version: 0.1.0
+  realm: shared
+  published_at: 2024-05-07T15:10:59.282760190Z
+  description: A modified version of robloxs safe teleport function on the docs for TeleportAsync with types and api improvements
+  dependencies:
+    retryer:
+    - name: kalrnlo/retryer
+      version: ^0.1.0
+      index: https://github.com/daimond113/pesde-index
+    - normal
