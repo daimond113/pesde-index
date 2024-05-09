@@ -6,3 +6,7 @@
   realm: shared
   published_at: 2024-05-07T15:09:12.000398170Z
   description: a utility module for working with robloxs TextChatService
+- version: 0.1.3
+  realm: shared
+  published_at: 2024-05-09T13:02:25.539513089Z
+  description: a utility module for working with robloxs TextChatService
