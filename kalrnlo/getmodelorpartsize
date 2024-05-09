@@ -2,3 +2,7 @@
   realm: shared
   published_at: 2024-05-07T15:11:26.329070222Z
   description: a simple function for getting either a model or parts size
+- version: 0.1.1
+  realm: shared
+  published_at: 2024-05-09T13:19:26.904936036Z
+  description: a simple function for getting either a model or parts size
