@@ -18,3 +18,18 @@
       version: ^0.1.4
       index: https://github.com/daimond113/pesde-index
     - normal
+- version: 0.1.2
+  realm: shared
+  published_at: 2024-05-12T21:09:11.824331856Z
+  description: A modified version of robloxs safe teleport function on the docs for TeleportAsync with types and api improvements
+  dependencies:
+    metaize:
+    - name: kalrnlo/metaize
+      version: ^0.1.6
+      index: https://github.com/daimond113/pesde-index
+    - normal
+    retryer:
+    - name: kalrnlo/retryer
+      version: ^0.1.6
+      index: https://github.com/daimond113/pesde-index
+    - normal
