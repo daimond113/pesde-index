@@ -6,3 +6,7 @@
   realm: shared
   published_at: 2024-05-09T13:02:43.419806643Z
   description: a port of fastest-levinstein to luau, with added functions for convenience
+- version: 0.1.2
+  realm: shared
+  published_at: 2024-05-12T20:53:56.126612094Z
+  description: a port of fastest-levinstein to luau, with added functions for convenience
