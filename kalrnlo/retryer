@@ -58,3 +58,13 @@
       version: ^0.1.6
       index: https://github.com/daimond113/pesde-index
     - normal
+- version: 0.1.7
+  realm: shared
+  published_at: 2024-05-12T21:09:03.061316064Z
+  description: Module for easily retrying functions
+  dependencies:
+    metaize:
+    - name: kalrnlo/metaize
+      version: ^0.1.6
+      index: https://github.com/daimond113/pesde-index
+    - normal
