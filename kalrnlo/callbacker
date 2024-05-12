@@ -58,3 +58,13 @@
       version: ^0.1.5
       index: https://github.com/daimond113/pesde-index
     - normal
+- version: 0.1.7
+  realm: shared
+  published_at: 2024-05-12T20:54:18.182123711Z
+  description: Module for easily handling callbacks
+  dependencies:
+    metaize:
+    - name: kalrnlo/metaize
+      version: ^0.1.6
+      index: https://github.com/daimond113/pesde-index
+    - normal
