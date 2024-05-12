@@ -1,0 +1,4 @@
+- version: 0.1.0
+  realm: shared
+  published_at: 2024-05-12T20:55:54.761402744Z
+  description: utility function for converting an asset type enum to an accessory type enum
