@@ -8,3 +8,13 @@
       version: ^0.1.6
       index: https://github.com/daimond113/pesde-index
     - normal
+- version: 0.1.1
+  realm: shared
+  published_at: 2024-05-19T22:11:29.336874898Z
+  description: a simple module for getting the size of a PVInstance
+  dependencies:
+    metaize:
+    - name: kalrnlo/metaize
+      version: ^0.1.6
+      index: https://github.com/daimond113/pesde-index
+    - normal
