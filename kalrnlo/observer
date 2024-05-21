@@ -18,3 +18,7 @@
   realm: shared
   published_at: 2024-05-12T20:56:45.520283869Z
   description: Simple observer library for roblox
+- version: 0.1.5
+  realm: shared
+  published_at: 2024-05-21T14:24:08.637461219Z
+  description: Simple observer library for roblox
