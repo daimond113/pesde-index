@@ -26,3 +26,7 @@
   realm: shared
   published_at: 2024-06-23T13:46:15.706447815Z
   description: alice language and compiler
+- version: 0.1.7
+  realm: shared
+  published_at: 2024-06-23T13:46:36.349137515Z
+  description: alice language and compiler
