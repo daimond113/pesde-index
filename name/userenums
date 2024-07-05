@@ -1,0 +1,8 @@
+- version: 0.1.0
+  realm: shared
+  published_at: 2024-06-29T14:59:28.659560613Z
+  description: A user-created, autocomplete recreation of Roblox's Enum.
+- version: 0.2.0-dev
+  realm: development
+  published_at: 2024-07-01T05:24:00.734903507Z
+  description: A user-created, autocomplete recreation of Roblox's Enum.
