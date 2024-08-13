@@ -1,0 +1,20 @@
+- version: 0.2.0-dev.8
+  realm: shared
+  published_at: 2024-08-13T15:24:50.909882523Z
+  description: |
+    Implements a "small" amount of lifecycle events for providers.
+
+    We'll admit. We've gotten a bit too lifecycle happy:
+
+    - `:onPostSimulation(dt: number)` runs every `RunService.PostSimulation`
+    - `:onPreSimulation(dt: number)` runs every `RunService.PreSimulation`
+    - `:onPreRender(dt: number)` runs every `RunService.PreRender`
+    - `:onPlayerAdded(player: Player)` runs every `Player.PlayerAdded`
+    - `:onPlayerLeaving(player: Player)` runs every `Player.PlayerLeaving`
+    - `:onShutdown()` binds to `game:BindToClose` for games and `plugin.Unloading` for plugins
+  dependencies:
+    prvdmwrong:
+    - name: prvdmwrong/core
+      version: ^0.2.0-dev.8
+      index: https://github.com/daimond113/pesde-index
+    - normal
