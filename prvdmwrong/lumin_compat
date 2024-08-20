@@ -8,3 +8,13 @@
       version: ^0.2.0-dev.11
       index: https://github.com/daimond113/pesde-index
     - normal
+- version: 0.2.0-dev.12
+  realm: shared
+  published_at: 2024-08-20T11:36:12.790009385Z
+  description: Implements a thin compatibility layer between Lumin Framework and Prvd 'M Wrong. It serves to ease transitioning to use Prvd 'M Wrong.
+  dependencies:
+    core:
+    - name: prvdmwrong/core
+      version: ^0.2.0-dev.12
+      index: https://github.com/daimond113/pesde-index
+    - normal
