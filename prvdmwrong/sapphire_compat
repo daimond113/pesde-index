@@ -1,0 +1,10 @@
+- version: 0.2.0-dev.14
+  realm: shared
+  published_at: 2024-08-27T14:00:05.233516895Z
+  description: Implements a thin compatibility layer between Sapphire and Prvd 'M Wrong. It serves to ease transitioning to use Prvd 'M Wrong.
+  dependencies:
+    core:
+    - name: prvdmwrong/core
+      version: ^0.2.0-dev.14
+      index: https://github.com/daimond113/pesde-index
+    - normal
