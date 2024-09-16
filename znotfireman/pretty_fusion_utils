@@ -2,3 +2,7 @@
   realm: shared
   published_at: 2024-09-13T01:28:31.565198226Z
   description: An opinionated collection of modern Fusion 0.3 utilities.
+- version: 0.1.0-dev.2
+  realm: shared
+  published_at: 2024-09-16T05:04:06.830926862Z
+  description: An opinionated collection of modern Fusion 0.3 utilities.
