@@ -1,0 +1,4 @@
+- version: 0.0.1
+  realm: shared
+  published_at: 2024-09-28T13:49:31.300477241Z
+  description: state/memory management library inspired by elttob/fusion
