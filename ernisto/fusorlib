@@ -14,3 +14,7 @@
   realm: shared
   published_at: 2024-09-28T14:46:22.355605472Z
   description: state/memory management library inspired by elttob/fusion
+- version: 0.0.7
+  realm: shared
+  published_at: 2024-09-29T19:40:39.111188895Z
+  description: state/memory management library inspired by elttob/fusion
