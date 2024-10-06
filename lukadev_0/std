@@ -1,4 +1,0 @@
-- version: 1.0.0
-  realm: shared
-  published_at: 2024-04-08T14:46:52.716485675Z
-  description: Runtime agnostic access to standard libraries
