@@ -21,3 +21,15 @@ repository = "https://github.com/lukadev-0/pesde-hello"
 environment = "lune"
 lib = "lib.luau"
 bin = "bin.luau"
+
+["1.0.0 luau"]
+published_at = "2024-10-12T16:50:47.282643794Z"
+description = "Prints hello. Intended for use in examples."
+license = "MIT"
+authors = ["LukaDev <luka@lukadev.me> (lukadev.me)"]
+repository = "https://github.com/lukadev-0/pesde-hello"
+
+["1.0.0 luau".target]
+environment = "luau"
+lib = "lib.luau"
+bin = "bin.luau"
