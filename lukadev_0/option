@@ -1,3 +1,15 @@
+["1.1.0 roblox"]
+published_at = "2024-10-12T19:12:15.945015838Z"
+description = "Option<T> type in Luau"
+license = "MIT"
+authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me/)"]
+repository = "https://github.com/lukadev-0/util.luau"
+
+["1.1.0 roblox".target]
+environment = "roblox"
+lib = "lib/init.luau"
+build_files = ["lib"]
+
 ["1.1.0 lune"]
 published_at = "2024-10-12T19:12:07.998409178Z"
 description = "Option<T> type in Luau"
