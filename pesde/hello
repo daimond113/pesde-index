@@ -9,3 +9,15 @@ repository = "https://github.com/lukadev-0/pesde-hello"
 environment = "roblox"
 lib = "lib.luau"
 build_files = ["lib.luau"]
+
+["1.0.0 lune"]
+published_at = "2024-10-12T16:50:44.047732045Z"
+description = "Prints hello. Intended for use in examples."
+license = "MIT"
+authors = ["LukaDev <luka@lukadev.me> (lukadev.me)"]
+repository = "https://github.com/lukadev-0/pesde-hello"
+
+["1.0.0 lune".target]
+environment = "lune"
+lib = "lib.luau"
+bin = "bin.luau"
