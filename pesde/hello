@@ -1,0 +1,11 @@
+["1.0.0 roblox"]
+published_at = "2024-10-12T16:50:40.756749348Z"
+description = "Prints hello. Intended for use in examples."
+license = "MIT"
+authors = ["LukaDev <luka@lukadev.me> (lukadev.me)"]
+repository = "https://github.com/lukadev-0/pesde-hello"
+
+["1.0.0 roblox".target]
+environment = "roblox"
+lib = "lib.luau"
+build_files = ["lib.luau"]
