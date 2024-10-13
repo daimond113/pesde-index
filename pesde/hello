@@ -34,20 +34,8 @@ environment = "luau"
 lib = "lib.luau"
 bin = "bin.luau"
 
-["1.0.1 roblox"]
-published_at = "2024-10-13T09:34:21.760306081Z"
-description = "Prints hello. Intended for use in examples."
-license = "MIT"
-authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me)"]
-repository = "https://github.com/lukadev-0/pesde-hello"
-
-["1.0.1 roblox".target]
-environment = "roblox"
-lib = "lib.luau"
-build_files = ["lib.luau"]
-
 ["1.0.1 lune"]
-published_at = "2024-10-13T09:34:19.213988526Z"
+published_at = "2024-10-13T09:54:15.991152386Z"
 description = "Prints hello. Intended for use in examples."
 license = "MIT"
 authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me)"]
@@ -55,17 +43,5 @@ repository = "https://github.com/lukadev-0/pesde-hello"
 
 ["1.0.1 lune".target]
 environment = "lune"
-lib = "lib.luau"
-bin = "bin.luau"
-
-["1.0.1 luau"]
-published_at = "2024-10-13T09:34:24.112297114Z"
-description = "Prints hello. Intended for use in examples."
-license = "MIT"
-authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me)"]
-repository = "https://github.com/lukadev-0/pesde-hello"
-
-["1.0.1 luau".target]
-environment = "luau"
 lib = "lib.luau"
 bin = "bin.luau"
