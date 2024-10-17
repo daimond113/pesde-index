@@ -1,0 +1,11 @@
+["0.1.4 roblox"]
+published_at = "2024-10-17T13:10:55.803584801Z"
+description = "16 bit CRC hashing function"
+license = "MIT"
+authors = ["jiwonz"]
+repository = "https://github.com/CavefulGames/libs"
+
+["0.1.4 roblox".target]
+environment = "roblox"
+lib = "init.luau"
+build_files = ["init.luau"]
