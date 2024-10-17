@@ -1,0 +1,11 @@
+["0.1.0 lune"]
+published_at = "2024-10-17T10:54:22.273831328Z"
+description = "This function prints hello, I just wanted to test somethings with pesde before migration"
+license = "MIT"
+authors = ["jiwonz"]
+repository = "https://github.com/jiwonz/rbx-tooling-test"
+
+["0.1.0 lune".target]
+environment = "lune"
+lib = "lib.luau"
+bin = "bin.luau"
