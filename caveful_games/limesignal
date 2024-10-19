@@ -1,0 +1,11 @@
+["0.1.6 roblox"]
+published_at = "2024-10-19T04:56:57.329959023Z"
+description = "A fork of LemonSignal with additional features added"
+license = "MIT"
+authors = ["Aspecky", "Sona", "jiwonz"]
+repository = "https://github.com/CavefulGames/LimeSignal"
+
+["0.1.6 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
