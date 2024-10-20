@@ -45,3 +45,15 @@ repository = "https://github.com/CavefulGames/libs"
 environment = "roblox"
 lib = "init.luau"
 build_files = ["init.luau"]
+
+["0.1.8 roblox"]
+published_at = "2024-10-20T10:49:40.984669984Z"
+description = "Execute the functions in a separate thread, threads are pooled and reused. Credit to lukadev-0/util.luau"
+license = "MIT"
+authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me/)", "jiwonz"]
+repository = "https://github.com/CavefulGames/libs"
+
+["0.1.8 roblox".target]
+environment = "roblox"
+lib = "init.luau"
+build_files = ["init.luau"]
