@@ -24,3 +24,18 @@ build_files = ["src"]
 
 ["0.1.7 roblox".dependencies]
 threadpool = [{ name = "caveful_games/threadpool", version = "^0.1.8", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+
+["0.1.8 roblox"]
+published_at = "2024-10-20T12:01:54.972905492Z"
+description = "A fork of LemonSignal with additional features added"
+license = "MIT"
+authors = ["Aspecky", "Sona", "jiwonz"]
+repository = "https://github.com/CavefulGames/LimeSignal"
+
+["0.1.8 roblox".target]
+environment = "roblox"
+lib = "src/lib.luau"
+build_files = ["src"]
+
+["0.1.8 roblox".dependencies]
+threadpool = [{ name = "caveful_games/threadpool", version = "^0.1.9", index = "https://github.com/daimond113/pesde-index" }, "standard"]
