@@ -1,0 +1,10 @@
+["0.1.0 luau"]
+published_at = "2024-10-20T00:05:54.019523455Z"
+description = "luau-utf16 is a library for using utf16 in luau."
+license = "MIT"
+authors = ["sunwoo"]
+repository = "https://github.com/kimpure/luau-utf16"
+
+["0.1.0 luau".target]
+environment = "luau"
+lib = "init.luau"
