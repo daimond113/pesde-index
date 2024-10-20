@@ -9,3 +9,15 @@ repository = "https://github.com/CavefulGames/libs"
 environment = "roblox"
 lib = "init.luau"
 build_files = ["init.luau"]
+
+["0.1.5 roblox"]
+published_at = "2024-10-20T10:50:14.424592392Z"
+description = "16 bit CRC hashing function"
+license = "MIT"
+authors = ["jiwonz"]
+repository = "https://github.com/CavefulGames/libs"
+
+["0.1.5 roblox".target]
+environment = "roblox"
+lib = "init.luau"
+build_files = ["init.luau"]
