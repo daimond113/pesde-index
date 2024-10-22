@@ -1,0 +1,10 @@
+["0.0.1-dev.0 luau"]
+published_at = "2024-10-22T21:53:23.379348804Z"
+description = "An implementation of Discord's written API in Luau"
+license = "MIT"
+authors = ["4x8Matrix"]
+repository = "https://github.com/DiscordLuau/discord-luau/tree/refactor/monorepository-origin/packages/api-types"
+
+["0.0.1-dev.0 luau".target]
+environment = "luau"
+lib = "init.luau"
