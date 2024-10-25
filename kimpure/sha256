@@ -8,3 +8,14 @@ repository = "https://github.com/kimpure/luau-sha256"
 ["0.1.0 luau".target]
 environment = "luau"
 lib = "init.luau"
+
+["0.1.1 luau"]
+published_at = "2024-10-25T10:37:03.783517801Z"
+description = "luau-sha256 is a library for using sha256 in luau."
+license = "MIT"
+authors = ["sunwoo"]
+repository = "https://github.com/kimpure/luau-sha256"
+
+["0.1.1 luau".target]
+environment = "luau"
+lib = "init.luau"
