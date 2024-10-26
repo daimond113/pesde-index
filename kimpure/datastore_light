@@ -1,0 +1,11 @@
+["0.1.0 roblox"]
+published_at = "2024-10-26T04:50:35.432839818Z"
+description = "datastore light"
+license = "MIT"
+authors = ["sunwoo"]
+repository = "https://github.com/kimpure/datastore-light-server"
+
+["0.1.0 roblox".target]
+environment = "roblox"
+lib = "lib.luau"
+build_files = ["lib.luau", "src"]
