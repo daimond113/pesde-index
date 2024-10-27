@@ -1,0 +1,164 @@
+["0.3.1-test.1 roblox"]
+published_at = "2024-10-27T16:58:05.448625651Z"
+description = "vide with types"
+license = "MIT"
+authors = ["centau"]
+repository = "https://github.com/centau/vide"
+
+["0.3.1-test.1 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
+[["0.3.1-test.1 roblox".docs]]
+label = "Api"
+
+[["0.3.1-test.1 roblox".docs.items]]
+label = "Animation API"
+name = "api/animation"
+hash = "d245c3d94eab97b5d859862e1f160a7d91b5e5bc0e645423d7b65e1425da6fee"
+
+[["0.3.1-test.1 roblox".docs.items]]
+label = "Element Creation API"
+name = "api/creation"
+hash = "247207b1ffd7bb76e494b8258dcda71780d5a5740f2af7858e5e8133e4e2a18b"
+
+[["0.3.1-test.1 roblox".docs.items]]
+label = "Reactivity API: Control Flow"
+name = "api/reactivity-flow"
+hash = "97ebc6f10c484a2202d1af9bb12cfcaca797428b9d43a5e0497c848d49dbbf48"
+
+[["0.3.1-test.1 roblox".docs.items]]
+label = "Reactivity API: Core"
+name = "api/reactivity-core"
+hash = "12c8027b10b533fb7eab0868bfa69f16f7b69e45983627d41336b26ffe8d6817"
+
+[["0.3.1-test.1 roblox".docs.items]]
+label = "Reactivity API: Utility"
+name = "api/reactivity-utility"
+hash = "15af4c2ac1a7e0a730a5d8acb06050fcd83229f852d33e5dd7abd5e1181f8f67"
+
+[["0.3.1-test.1 roblox".docs.items]]
+label = "Strict Mode"
+name = "api/strict-mode"
+hash = "c600a3012e9a5e221c5720006b8273a653d0faa71ada090c92a572e4d1d47e4c"
+
+[["0.3.1-test.1 roblox".docs]]
+label = "Index"
+name = "index"
+hash = "3d1175d0e0cc3b1756e4b73c038c3339138102bc90f0741d9ab804a01316a432"
+
+[["0.3.1-test.1 roblox".docs]]
+label = "Public"
+
+[["0.3.1-test.1 roblox".docs]]
+label = "Tut"
+
+[["0.3.1-test.1 roblox".docs.items]]
+label = "Advanced"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Nested Scopes"
+name = "tut/advanced/nested-scoping"
+hash = "c56b5885b6337f600d9571a39889b348a27032814c26744765c5913f78a33bb6"
+
+[["0.3.1-test.1 roblox".docs.items]]
+label = "Control Flow"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "1 Intro"
+name = "tut/control-flow/1-intro"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "indexes()"
+name = "tut/control-flow/4-indexes"
+hash = "a273cc8e9e3af80bfd326aa52d61a171e9954e7a31aa9e47027a5c8d0f3e867d"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "show()"
+name = "tut/control-flow/2-show"
+hash = "1cd6ef83701519eb70785f85fdddddad5d4d637be654ef7b0bbb4ee4b768453c"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "switch()"
+name = "tut/control-flow/3-switch"
+hash = "d42b498f22f85c009787a3cabee73107899d718d8ff8a124859b1debd91ec353"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "values()"
+name = "tut/control-flow/5-values"
+hash = "30705f9507c131b852b1d72cc0647f5c82f062bc850872ad36a81d20d100bb13"
+
+[["0.3.1-test.1 roblox".docs.items]]
+label = "Crash Course"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Actions"
+name = "tut/crash-course/12-actions"
+hash = "b7e27cd8b79758a080e9c1d04ee9941b147d882927d1f6bff751ca745ce709f6"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Cleanup"
+name = "tut/crash-course/10-cleanup"
+hash = "fec6b01f8077cc56cde9e672d2488120cdae00b4e5546fcee526be87a596096a"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Components"
+name = "tut/crash-course/3-components"
+hash = "a06e55a0be2bcaa1909f28bb4b013c27b96ba1dae6b31d101e38a9de66f2744e"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Concepts Summary"
+name = "tut/crash-course/14-concepts"
+hash = "63637a879ae6a6a0398d87eb558fd5a810e1fe3a815f6a16f952944f520a6d8e"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Control Flow"
+name = "tut/crash-course/11-control-flow"
+hash = "dc6d26165c03201a33000af0214e163ec2a8127d6e269a9a1cebddf59cda9680"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Creating UI"
+name = "tut/crash-course/2-creation"
+hash = "8291b4a8787305749e8bd605e438fc956872ed68d45ce170f6e0c8fbca1a1397"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Derived Sources"
+name = "tut/crash-course/9-derived-source"
+hash = "2a9429a4c4499d07eea63776423aef707c97c5a48c6a4f2863bceb05f08c5e3b"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Effects"
+name = "tut/crash-course/5-effect"
+hash = "8b55f1a475516458c50eafb69c4a379696cf94c3f111540b265599d8418a89bd"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Implicit Effects"
+name = "tut/crash-course/8-implicit-effect"
+hash = "9931d5e805b65026b9cc42ce7503ab493b590e63820a466ff40038bf3c95e3fe"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Introduction"
+name = "tut/crash-course/1-introduction"
+hash = "d2a4c98b3c967af0d637bc5fe9a12606fac6008c692614e777640b1b86556a91"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Scopes"
+name = "tut/crash-course/6-scope"
+hash = "97795e2511c8aa2e34239bc92c554079cd7d518ed01330e59b2760c2263fa2e5"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Sources"
+name = "tut/crash-course/4-source"
+hash = "42dbb8f3cc8f234cf05ef1caa9d93addd80c90552c0cbc04164517ccd0be39e3"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Stateful Components"
+name = "tut/crash-course/7-stateful-component"
+hash = "d4ae30073b7fad9f3809af4b925fcb39203fd2f2dbdddda945cd89a5744a8251"
+
+[["0.3.1-test.1 roblox".docs.items.items]]
+label = "Strict Mode"
+name = "tut/crash-course/13-strict-mode"
+hash = "ba7190e3a41833ef7fa73724f0c7b611a441abbb1f17f5877e5c69dca728ed43"
