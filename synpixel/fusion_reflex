@@ -1,0 +1,11 @@
+["0.1.0 roblox"]
+published_at = "2024-10-27T23:25:55.422071635Z"
+description = "A port of react-reflex for Fusion 0.3"
+license = "MIT"
+authors = ["synpixel"]
+repository = "https://github.com/synpixel/fusion-reflex"
+
+["0.1.0 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
