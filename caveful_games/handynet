@@ -102,3 +102,18 @@ build_files = ["lib.luau", "src"]
 
 ["0.2.3 roblox".dependencies]
 limesignal = [{ name = "caveful_games/limesignal", version = "^0.1.10", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+
+["0.3.0 roblox"]
+published_at = "2024-10-28T15:28:26.117692925Z"
+description = "ByteNet fork made more handy"
+license = "MIT"
+authors = ["ffrostfall", "jiwonz"]
+repository = "https://github.com/CavefulGames/HandyNet"
+
+["0.3.0 roblox".target]
+environment = "roblox"
+lib = "lib.luau"
+build_files = ["lib.luau", "src"]
+
+["0.3.0 roblox".dependencies]
+limesignal = [{ name = "caveful_games/limesignal", version = "^0.1.10", index = "https://github.com/daimond113/pesde-index" }, "standard"]
