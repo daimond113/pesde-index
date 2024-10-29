@@ -70,6 +70,23 @@ environment = "luau"
 lib = "lib.luau"
 bin = "bin.luau"
 
+["1.0.2 lune"]
+published_at = "2024-10-29T18:22:00.319829875Z"
+description = "Prints hello. Intended for use in examples."
+license = "MIT"
+authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me)"]
+repository = "https://github.com/lukadev-0/pesde-hello"
+
+["1.0.2 lune".target]
+environment = "lune"
+lib = "lib.luau"
+bin = "bin.luau"
+
+[["1.0.2 lune".docs]]
+label = "Introduction"
+name = "intro"
+hash = "f68f773bd7cee9cdbeb86b5d35b3b8563adaf10c442c8d8793050ba78157cb43"
+
 ["1.0.2 luau"]
 published_at = "2024-10-29T18:21:51.276604223Z"
 description = "Prints hello. Intended for use in examples."
