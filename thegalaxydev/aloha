@@ -1,3 +1,14 @@
+["0.0.3 lune"]
+published_at = "2024-10-30T16:38:50.197047468Z"
+description = "Aloha is a Discord API library written in Luau using Lune. This is an attempt to make a more up-to-date form of Discordia for people who want to make Discord bots in Luau."
+license = "GPL-3.0"
+authors = ["thegalaxydev"]
+repository = "https://github.com/thegalaxydev/Aloha"
+
+["0.0.3 lune".target]
+environment = "lune"
+lib = "Aloha/init.luau"
+
 ["0.4.0 luau"]
 published_at = "2024-10-30T15:52:40.564914511Z"
 description = "Aloha is a Discord API library written in Luau using Lune. This is an attempt to make a more up-to-date form of Discordia for people who want to make Discord bots in Luau."
