@@ -1,0 +1,10 @@
+["0.1.0 lune"]
+published_at = "2024-10-30T16:36:07.857685973Z"
+description = "luau-path + @lune/fs"
+license = "MIT"
+authors = ["jeparlefrancais <jeparlefrancais21@gmail.com>", "jiwonz"]
+repository = "https://github.com/jiwonz/lune-path-fs/"
+
+["0.1.0 lune".target]
+environment = "lune"
+lib = "init.luau"
