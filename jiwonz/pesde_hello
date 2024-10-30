@@ -10,6 +10,18 @@ environment = "lune"
 lib = "lib.luau"
 bin = "bin.luau"
 
+["0.1.1 roblox"]
+published_at = "2024-10-30T17:56:19.519221169Z"
+description = "This function prints hello, I just wanted to test somethings with pesde before migration"
+license = "MIT"
+authors = ["jiwonz"]
+repository = "https://github.com/jiwonz/rbx-tooling-test"
+
+["0.1.1 roblox".target]
+environment = "roblox"
+lib = "lib/init.luau"
+build_files = ["lib"]
+
 ["0.1.1 lune"]
 published_at = "2024-10-30T17:52:48.424951563Z"
 description = "This function prints hello, I just wanted to test somethings with pesde before migration"
