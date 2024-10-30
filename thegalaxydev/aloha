@@ -8,3 +8,14 @@ repository = "https://github.com/thegalaxydev/Aloha"
 ["0.4.0 luau".target]
 environment = "luau"
 lib = "Aloha/init.luau"
+
+["0.4.1 lune"]
+published_at = "2024-10-30T16:23:47.682240489Z"
+description = "Aloha is a Discord API library written in Luau using Lune. This is an attempt to make a more up-to-date form of Discordia for people who want to make Discord bots in Luau."
+license = "GPL-3.0"
+authors = ["thegalaxydev"]
+repository = "https://github.com/thegalaxydev/Aloha"
+
+["0.4.1 lune".target]
+environment = "lune"
+lib = "Aloha/init.luau"
