@@ -1,0 +1,10 @@
+["0.1.0 luau"]
+published_at = "2024-10-30T16:27:22.667854949Z"
+description = "A regular expression library for Luau."
+license = "MIT"
+authors = ["Roblox", "Blockzez"]
+repository = "https://github.com/Roblox/luau-regexp"
+
+["0.1.0 luau".target]
+environment = "luau"
+lib = "src/Regexp.global.luau"
