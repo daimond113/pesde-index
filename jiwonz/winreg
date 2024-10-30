@@ -1,0 +1,14 @@
+["0.1.0 lune"]
+published_at = "2024-10-30T16:56:41.326168Z"
+description = "A lune module that provides access to the Windows Registry through the REG commandline tool"
+license = "MIT"
+authors = ["jiwonz"]
+repository = "https://github.com/jiwonz/winreg-lune"
+
+["0.1.0 lune".target]
+environment = "lune"
+lib = "init.luau"
+
+["0.1.0 lune".dependencies]
+luau_regexp = [{ name = "jiwonz/luau_regexp", version = "^0.1.0", index = "https://github.com/daimond113/pesde-index", target = "luau" }, "standard"]
+pathfs = [{ name = "jiwonz/pathfs", version = "^0.1.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
