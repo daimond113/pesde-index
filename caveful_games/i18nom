@@ -1,3 +1,15 @@
+["0.1.0 roblox"]
+published_at = "2024-10-30T20:19:53.192776577Z"
+description = "I18n(Internationalization) library for Luau and Reactive UI library for Roblox"
+license = "MIT"
+authors = ["jiwonz"]
+repository = "https://github.com/CavefulGames/i18nom"
+
+["0.1.0 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
 ["0.1.0 luau"]
 published_at = "2024-10-30T20:15:43.113434279Z"
 description = "I18n(Internationalization) library for Luau and Reactive UI library for Roblox"
