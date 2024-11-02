@@ -41,3 +41,17 @@ lib = "t.luau"
 
 ["0.4.10-pesde.rc.1 lune".dependencies]
 GreenTea = [{ name = "corecii/greentea", version = "=0.4.10", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+
+["0.4.10-pesde.rc.2 lune"]
+published_at = "2024-11-02T21:22:32.831171476Z"
+description = "A t-compatible API for GreenTea"
+license = "MIT"
+authors = ["Corecii (Shae A.)  <github.com/corecii>"]
+repository = "https://github.com/Corecii/GreenTea"
+
+["0.4.10-pesde.rc.2 lune".target]
+environment = "lune"
+lib = "t.luau"
+
+["0.4.10-pesde.rc.2 lune".dependencies]
+GreenTea = [{ name = "corecii/greentea", version = "=0.4.10-pesde.rc.1", index = "https://github.com/daimond113/pesde-index" }, "standard"]
