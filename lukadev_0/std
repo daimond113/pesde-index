@@ -20,3 +20,14 @@ repository = "https://github.com/lukadev-0/util.luau"
 ["1.0.0 lune".target]
 environment = "lune"
 lib = "lib/init.luau"
+
+["1.0.1 lune"]
+published_at = "2024-11-02T13:46:15.055074405Z"
+description = "Runtime agnostic access to standard libraries"
+license = "MIT"
+authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me/)"]
+repository = "https://github.com/lukadev-0/util.luau"
+
+["1.0.1 lune".target]
+environment = "lune"
+lib = "lib/init.luau"
