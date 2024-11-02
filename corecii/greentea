@@ -1,0 +1,11 @@
+["0.4.9 roblox"]
+published_at = "2024-11-02T19:47:53.901009362Z"
+description = "A runtime typechecker with Luau types, pretty errors, and inspection"
+license = "MIT"
+authors = ["Corecii (Shae A.) <github.com/corecii>"]
+repository = "https://github.com/Corecii/GreenTea"
+
+["0.4.9 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
