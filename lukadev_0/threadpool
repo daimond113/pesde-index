@@ -26,3 +26,17 @@ lib = "lib/init.luau"
 
 ["1.0.0 lune".dependencies]
 std = [{ name = "lukadev_0/std", version = "^1.0.0", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "standard"]
+
+["1.0.1 lune"]
+published_at = "2024-11-02T13:46:25.253247861Z"
+description = "Spawn threads using a thread pool"
+license = "MIT"
+authors = ["LukaDev <luka@lukadev.me> (https://lukadev.me/)"]
+repository = "https://github.com/lukadev-0/util.luau"
+
+["1.0.1 lune".target]
+environment = "lune"
+lib = "lib/init.luau"
+
+["1.0.1 lune".dependencies]
+std = [{ name = "lukadev_0/std", version = "^1.0.1", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "standard"]
