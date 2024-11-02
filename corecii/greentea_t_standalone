@@ -1,0 +1,14 @@
+["0.4.9-pesde.rc.1 roblox"]
+published_at = "2024-11-02T19:52:12.473520710Z"
+description = "A t-compatible API for GreenTea"
+license = "MIT"
+authors = ["Corecii (Shae A.)  <github.com/corecii>"]
+repository = "https://github.com/Corecii/GreenTea"
+
+["0.4.9-pesde.rc.1 roblox".target]
+environment = "roblox"
+lib = "t.luau"
+build_files = ["t.luau"]
+
+["0.4.9-pesde.rc.1 roblox".dependencies]
+GreenTea = [{ name = "corecii/greentea", version = "=0.4.9", index = "https://github.com/daimond113/pesde-index" }, "standard"]
