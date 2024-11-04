@@ -1,0 +1,10 @@
+["0.0.1 lune"]
+published_at = "2024-11-04T22:16:31.504301966Z"
+description = "A basic test framework for Lune"
+license = "MIT"
+authors = ["Francis O'Brien <github.com/itsfrank>"]
+repository = "https://github.com/itsfrank/frktest"
+
+["0.0.1 lune".target]
+environment = "lune"
+lib = "src/_pesde_init.luau"
