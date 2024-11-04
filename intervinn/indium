@@ -1,0 +1,10 @@
+["0.1.0 lune"]
+published_at = "2024-11-04T13:22:49.256642047Z"
+description = "Express-like Lune backend"
+license = "MIT"
+authors = ["intervinn"]
+repository = "https://github.com/intervinn/indium"
+
+["0.1.0 lune".target]
+environment = "lune"
+lib = "init.luau"
