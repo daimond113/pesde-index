@@ -8,3 +8,14 @@ repository = "https://github.com/itsfrank/frktest"
 ["0.0.1 lune".target]
 environment = "lune"
 lib = "src/_pesde_init.luau"
+
+["0.0.2 lune"]
+published_at = "2024-11-05T19:58:11.558275424Z"
+description = "A basic test framework for Lune"
+license = "MIT"
+authors = ["Francis O'Brien <github.com/itsfrank>"]
+repository = "https://github.com/itsfrank/frktest"
+
+["0.0.2 lune".target]
+environment = "lune"
+lib = "src/_pesde_init.luau"
