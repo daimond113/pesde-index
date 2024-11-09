@@ -1,0 +1,15 @@
+["0.1.0 lune"]
+published_at = "2024-11-09T15:53:48.797355874Z"
+description = "A port of rust-headless-chrome to Luau, built for Lune"
+license = "MIT"
+authors = ["synpixel"]
+repository = "https://github.com/synpixel/chrome-luau"
+
+["0.1.0 lune".target]
+environment = "lune"
+lib = "src/init.luau"
+
+[["0.1.0 lune".docs]]
+label = "Introduction"
+name = "intro"
+hash = "e7e056f2c5900934dfe7b232739ef64e78fe99e30416c4f0ef64d1127fd64492"
