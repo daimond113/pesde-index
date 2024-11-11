@@ -141,3 +141,19 @@ lib = "src/init.luau"
 label = "Introduction"
 name = "intro"
 hash = "f23c652e5c41bbd70c7010b1b72a662c5c7d6f1fd5a5e14c7224412a063817a3"
+
+["0.2.2 lune"]
+published_at = "2024-11-11T01:38:47.846173665Z"
+description = "A port of rust-headless-chrome to Luau, built for Lune"
+license = "MIT"
+authors = ["synpixel"]
+repository = "https://github.com/synpixel/chrome.luau"
+
+["0.2.2 lune".target]
+environment = "lune"
+lib = "src/init.luau"
+
+[["0.2.2 lune".docs]]
+label = "Introduction"
+name = "intro"
+hash = "f23c652e5c41bbd70c7010b1b72a662c5c7d6f1fd5a5e14c7224412a063817a3"
