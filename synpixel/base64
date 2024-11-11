@@ -1,0 +1,10 @@
+["3.0.0 lune"]
+published_at = "2024-11-11T19:19:56.505495223Z"
+description = "A pretty fast Luau Base64 encoder"
+license = "MIT"
+authors = ["Reselim"]
+repository = "https://github.com/synpixel/Base64"
+
+["3.0.0 lune".target]
+environment = "lune"
+lib = "lib.luau"
