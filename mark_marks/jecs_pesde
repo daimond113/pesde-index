@@ -1,0 +1,10 @@
+["0.3.2 luau"]
+published_at = "2024-11-12T18:18:53.925686525Z"
+description = "A minimal copy of jecs published on the official pesde registry"
+license = "MIT"
+authors = ["jecs authors"]
+repository = "https://git.devmarked.win/marked/jecs-pesde"
+
+["0.3.2 luau".target]
+environment = "luau"
+lib = "init.luau"
