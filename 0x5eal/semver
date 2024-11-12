@@ -1,0 +1,15 @@
+["0.1.0 luau"]
+published_at = "2024-11-12T16:16:28.286226421Z"
+description = "Strongly typed semver (https://semver.org) parser for Luau"
+license = "MIT"
+authors = ["Erica Marigold <hi@devcomp.xyz>"]
+repository = "https://github.com/0x5eal/semver-luau.git"
+
+["0.1.0 luau".target]
+environment = "luau"
+lib = "lib/init.luau"
+
+["0.1.0 luau".dependencies]
+frktest = [{ name = "itsfrank/frktest", version = "^0.0.2", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "dev"]
+option = [{ name = "lukadev_0/option", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "peer"]
+result = [{ name = "lukadev_0/result", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "peer"]
