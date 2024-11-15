@@ -1,0 +1,10 @@
+["1.0.0 lune"]
+published_at = "2024-11-15T22:49:05.852134703Z"
+description = "A copy of Nicell's lynx, for pesde"
+license = "MIT"
+authors = ["Nicell"]
+repository = "https://github.com/synpixel/lynx"
+
+["1.0.0 lune".target]
+environment = "lune"
+lib = "src/init.luau"
