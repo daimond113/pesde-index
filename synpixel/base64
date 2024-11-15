@@ -31,3 +31,14 @@ repository = "https://github.com/synpixel/Base64"
 ["3.0.0 luau".target]
 environment = "luau"
 lib = "lib.luau"
+
+["3.0.1 luau"]
+published_at = "2024-11-15T22:13:26.837350177Z"
+description = "A copy of Reselim's Base64, for pesde"
+license = "MIT"
+authors = ["Reselim"]
+repository = "https://github.com/synpixel/Base64"
+
+["3.0.1 luau".target]
+environment = "luau"
+lib = "lib.luau"
