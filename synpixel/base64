@@ -32,6 +32,18 @@ repository = "https://github.com/synpixel/Base64"
 environment = "luau"
 lib = "lib.luau"
 
+["3.0.1 roblox"]
+published_at = "2024-11-15T22:13:44.303191866Z"
+description = "A copy of Reselim's Base64, for pesde"
+license = "MIT"
+authors = ["Reselim"]
+repository = "https://github.com/synpixel/Base64"
+
+["3.0.1 roblox".target]
+environment = "roblox"
+lib = "lib.luau"
+build_files = ["lib.luau"]
+
 ["3.0.1 lune"]
 published_at = "2024-11-15T22:13:30.192877417Z"
 description = "A copy of Reselim's Base64, for pesde"
