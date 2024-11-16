@@ -1,0 +1,14 @@
+["0.1.0 roblox"]
+published_at = "2024-11-16T02:59:21.517836343Z"
+description = "A simple HTTP library for Roblox."
+license = "MIT"
+authors = ["DanCodesRBX"]
+repository = "https://github.com/DanCodesRBX/roblox_requests"
+
+["0.1.0 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
+["0.1.0 roblox".dependencies]
+promise = [{ wally = "wally#evaera/promise", version = "^4.0.0", index = "https://github.com/UpliftGames/wally-index" }, "standard"]
