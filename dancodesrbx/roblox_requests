@@ -12,3 +12,18 @@ build_files = ["src"]
 
 ["0.1.0 roblox".dependencies]
 promise = [{ wally = "wally#evaera/promise", version = "^4.0.0", index = "https://github.com/UpliftGames/wally-index" }, "standard"]
+
+["0.1.1 roblox"]
+published_at = "2024-11-16T18:38:36.792387507Z"
+description = "A simple HTTP library for Roblox. [DOES NOT WORK CURRENTLY]"
+license = "MIT"
+authors = ["DanCodesRBX"]
+repository = "https://github.com/DanCodesRBX/roblox_requests"
+
+["0.1.1 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
+["0.1.1 roblox".dependencies]
+Promise = [{ wally = "wally#evaera/promise", version = "^4.0.0", index = "https://github.com/UpliftGames/wally-index" }, "standard"]
