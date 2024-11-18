@@ -9,3 +9,15 @@ repository = "https://github.com/synpixel/fusion-jecs"
 environment = "roblox"
 lib = "src/init.luau"
 build_files = ["src"]
+
+["0.2.0 roblox"]
+published_at = "2024-11-18T19:52:40.134889230Z"
+description = "A library which bridges the gap between your ECS and your UI"
+license = "MIT"
+authors = ["synpixel"]
+repository = "https://github.com/synpixel/fusion-jecs"
+
+["0.2.0 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
