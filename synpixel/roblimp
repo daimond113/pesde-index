@@ -1,0 +1,13 @@
+["0.1.0 lune"]
+published_at = "2024-11-24T23:15:48.064233839Z"
+description = "An auto-generated wrapper around Roblox's API"
+license = "MIT"
+authors = ["synpixel"]
+repository = "https://github.com/synpixel/roblimp"
+
+["0.1.0 lune".target]
+environment = "lune"
+lib = "build/init.luau"
+
+["0.1.0 lune".dependencies]
+result = [{ name = "lukadev_0/result", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
