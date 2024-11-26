@@ -1,0 +1,11 @@
+["0.1.0 luau"]
+published_at = "2024-11-26T15:38:24.330931412Z"
+description = "Prints rose toy"
+license = "MIT"
+authors = ["codeforge11"]
+repository = "https://github.com/codeforge11/pesde-rosetoy"
+
+["0.1.0 luau".target]
+environment = "luau"
+lib = "lib.luau"
+bin = "bin.luau"
