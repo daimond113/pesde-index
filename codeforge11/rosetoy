@@ -9,3 +9,15 @@ repository = "https://github.com/codeforge11/pesde-rosetoy"
 environment = "luau"
 lib = "lib.luau"
 bin = "bin.luau"
+
+["0.1.1 luau"]
+published_at = "2024-11-26T15:52:00.625637044Z"
+description = "Prints rose toy"
+license = "MIT"
+authors = ["codeforge11"]
+repository = "https://github.com/codeforge11/pesde-rosetoy"
+
+["0.1.1 luau".target]
+environment = "luau"
+lib = "lib.luau"
+bin = "bin.luau"
