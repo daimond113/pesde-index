@@ -1,0 +1,11 @@
+["0.5.0 roblox"]
+published_at = "2024-11-27T17:53:35.160110589Z"
+description = "A customizable and extendable debugger for open source software"
+license = "MIT"
+authors = ["2jammers"]
+repository = "https://github.com/luminlabsdev/debugger"
+
+["0.5.0 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
