@@ -13,3 +13,19 @@ option = [{ name = "lukadev_0/option", version = "^1.2.0", index = "https://gith
 pathfs = [{ name = "jiwonz/pathfs", version = "^0.1.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
 result = [{ name = "lukadev_0/result", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "peer"]
 semver = [{ name = "0x5eal/semver", version = "^0.1.1", index = "https://github.com/daimond113/pesde-index", target = "luau" }, "peer"]
+
+["0.1.1 lune"]
+published_at = "2024-11-30T05:36:26.493043942Z"
+license = "MIT"
+repository = "https://github.com/pesde-pkg/tooling/tree/main/toolchainlib"
+
+["0.1.1 lune".target]
+environment = "lune"
+lib = "src/init.luau"
+
+["0.1.1 lune".dependencies]
+dirs = [{ name = "jiwonz/dirs", version = "^0.1.1", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+option = [{ name = "lukadev_0/option", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "peer"]
+pathfs = [{ name = "jiwonz/pathfs", version = "^0.1.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+result = [{ name = "lukadev_0/result", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "peer"]
+semver = [{ name = "0x5eal/semver", version = "^0.1.1", index = "https://github.com/daimond113/pesde-index", target = "luau" }, "peer"]
