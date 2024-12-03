@@ -1,0 +1,13 @@
+["0.1.6 luau"]
+published_at = "2024-12-03T18:34:30.713690239Z"
+description = "A set of utilities for jecs"
+license = "MIT"
+authors = ["marked/Mark-Marks"]
+repository = "https://github.com/mark-marks/jecs-utils"
+
+["0.1.6 luau".target]
+environment = "luau"
+lib = "lib/init.luau"
+
+["0.1.6 luau".dependencies]
+jecs = [{ name = "mark_marks/jecs_pesde", version = "^0.4.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
