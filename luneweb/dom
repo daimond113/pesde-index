@@ -17,3 +17,13 @@ repository = "https://github.com/LuneWeb/LuneWeb"
 ["0.1.0 luau".target]
 environment = "luau"
 lib = "init.luau"
+
+["0.2.0 lune"]
+published_at = "2024-12-05T23:44:22.794168707Z"
+description = "bindings for interacting with the DOM"
+license = "MIT"
+repository = "https://github.com/LuneWeb/LuneWeb"
+
+["0.2.0 lune".target]
+environment = "lune"
+lib = "init.luau"
