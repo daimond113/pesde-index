@@ -1,3 +1,13 @@
+["0.1.0 lune"]
+published_at = "2024-12-05T21:48:00.050800871Z"
+description = "bindings for interacting with the DOM"
+license = "MIT"
+repository = "https://github.com/LuneWeb/LuneWeb"
+
+["0.1.0 lune".target]
+environment = "lune"
+lib = "init.luau"
+
 ["0.1.0 luau"]
 published_at = "2024-12-05T21:08:53.575325495Z"
 description = "bindings for interacting with the DOM"
