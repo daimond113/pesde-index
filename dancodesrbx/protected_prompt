@@ -25,3 +25,17 @@ build_files = ["src"]
 ["1.0.1 roblox".dependencies]
 Signal = [{ wally = "wally#sleitnick/signal", version = "^2.0.1", index = "https://github.com/UpliftGames/wally-index" }, "standard"]
 Trove = [{ wally = "wally#sleitnick/trove", version = "^1.4.0", index = "https://github.com/UpliftGames/wally-index" }, "standard"]
+
+["1.0.2 roblox"]
+published_at = "2024-12-08T07:08:24.410772624Z"
+license = "MIT"
+authors = ["DanCodesRBX"]
+
+["1.0.2 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
+["1.0.2 roblox".dependencies]
+Signal = [{ wally = "wally#sleitnick/signal", version = "^2.0.1", index = "https://github.com/UpliftGames/wally-index" }, "standard"]
+Trove = [{ wally = "wally#sleitnick/trove", version = "^1.4.0", index = "https://github.com/UpliftGames/wally-index" }, "standard"]
