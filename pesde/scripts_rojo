@@ -1,0 +1,17 @@
+["0.1.0 lune"]
+published_at = "2024-12-08T18:38:32.347143376Z"
+description = "Scripts for Rojo-based Roblox projects."
+license = "MIT"
+authors = ["daimond113 <contact@daimond113.com> (https://www.daimond113.com/)", "Erica Marigold <hi@devcomp.xyz>"]
+repository = "https://github.com/pesde-pkg/scripts"
+
+["0.1.0 lune".target]
+environment = "lune"
+
+["0.1.0 lune".target.scripts]
+roblox_sync_config_generator = "roblox_sync_config_generator.luau"
+sourcemap_generator = "sourcemap_generator.luau"
+
+["0.1.0 lune".dependencies]
+core = [{ name = "pesde/scripts_core", version = "^0.0.1", index = "https://github.com/pesde-pkg/index", target = "lune" }, "standard"]
+rojo = [{ name = "pesde/rojo", version = "^7.4.4", index = "https://github.com/pesde-pkg/index" }, "peer"]
