@@ -1,0 +1,12 @@
+["1.0.0 roblox"]
+published_at = "2024-12-08T06:37:01.474594756Z"
+license = "MIT"
+authors = ["DanCodesRBX"]
+
+["1.0.0 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
+["1.0.0 roblox".dependencies]
+Signal = [{ wally = "wally#sleitnick/signal", version = "^2.0.1", index = "https://github.com/UpliftGames/wally-index" }, "standard"]
