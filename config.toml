@@ -3,3 +3,4 @@ download = "{API_URL}/v0/packages/{PACKAGE}/{PACKAGE_VERSION}/{PACKAGE_TARGET}"
 github_oauth_client_id = "a1d648966fdfbdcd9295"
 wally_allowed = true
 other_registries_allowed = ["https://github.com/daimond113/pesde-index"]
+scripts_package = "pesde/scripts_rojo"
