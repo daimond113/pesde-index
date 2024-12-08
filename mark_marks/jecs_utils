@@ -11,3 +11,17 @@ lib = "lib/init.luau"
 
 ["0.1.6 luau".dependencies]
 jecs = [{ name = "mark_marks/jecs_pesde", version = "^0.4.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+
+["0.1.7-rc.1 luau"]
+published_at = "2024-12-08T13:33:38.538971345Z"
+description = "A set of utilities for jecs"
+license = "MIT"
+authors = ["marked/Mark-Marks"]
+repository = "https://github.com/mark-marks/jecs-utils"
+
+["0.1.7-rc.1 luau".target]
+environment = "luau"
+lib = "lib/init.luau"
+
+["0.1.7-rc.1 luau".dependencies]
+jecs = [{ name = "mark_marks/jecs_pesde", version = "^0.4.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
