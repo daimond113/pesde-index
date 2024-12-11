@@ -13,3 +13,19 @@ bin = "src/bin.luau"
 ["0.1.0 lune".dependencies]
 luaup = [{ name = "jiwonz/luaup", version = "^0.1.0", index = "https://github.com/pesde-pkg/index", target = "luau" }, "standard"]
 pathfs = [{ name = "jiwonz/pathfs", version = "^0.1.0", index = "https://github.com/pesde-pkg/index" }, "standard"]
+
+["0.1.1 lune"]
+published_at = "2024-12-11T19:51:00.201828044Z"
+description = "Find unused dependencies in pesde.toml"
+license = "MIT"
+authors = ["jiwonz"]
+repository = "https://github.com/jiwonz/pesde-udeps"
+
+["0.1.1 lune".target]
+environment = "lune"
+lib = "src/lib.luau"
+bin = "src/bin.luau"
+
+["0.1.1 lune".dependencies]
+luaup = [{ name = "jiwonz/luaup", version = "^0.1.0", index = "https://github.com/pesde-pkg/index", target = "luau" }, "standard"]
+pathfs = [{ name = "jiwonz/pathfs", version = "^0.1.0", index = "https://github.com/pesde-pkg/index" }, "standard"]
