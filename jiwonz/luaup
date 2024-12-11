@@ -1,0 +1,10 @@
+["0.1.0 luau"]
+published_at = "2024-12-11T17:07:21.271335099Z"
+description = "A lossless Luau parser written in Luau by jackdotink. Uploaded for pesde"
+license = "MIT"
+authors = ["jackdotink"]
+repository = "https://github.com/jackdotink/luaup"
+
+["0.1.0 luau".target]
+environment = "luau"
+lib = "lib.luau"
