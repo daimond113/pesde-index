@@ -1,6 +1,6 @@
 api = "https://registry.pesde.daimond113.com"
 download = "{API_URL}/v0/packages/{PACKAGE}/{PACKAGE_VERSION}/{PACKAGE_TARGET}"
 github_oauth_client_id = "a1d648966fdfbdcd9295"
-wally_allowed = true
+wally_allowed = ["https://github.com/UpliftGames/wally-index"]
 other_registries_allowed = ["https://github.com/daimond113/pesde-index"]
-scripts_package = "pesde/scripts_rojo"
+scripts_packages = ["pesde/scripts_rojo"]
