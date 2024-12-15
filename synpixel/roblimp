@@ -11,3 +11,17 @@ lib = "build/init.luau"
 
 ["0.1.0 lune".dependencies]
 result = [{ name = "lukadev_0/result", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+
+["0.1.1 lune"]
+published_at = "2024-12-15T13:32:43.235604816Z"
+description = "An auto-generated wrapper around Roblox's API"
+license = "MIT"
+authors = ["synpixel"]
+repository = "https://github.com/synpixel/roblimp"
+
+["0.1.1 lune".target]
+environment = "lune"
+lib = "build/init.luau"
+
+["0.1.1 lune".dependencies]
+result = [{ name = "lukadev_0/result", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
