@@ -1,0 +1,18 @@
+["0.3.0-rc1 roblox"]
+published_at = "2024-12-15T05:30:33.692694160Z"
+description = "A small, fast, and efficient UI framework that has a small learning curve"
+license = "MIT"
+authors = ["2jammers"]
+repository = "https://github.com/lumin-org/ui"
+
+["0.3.0-rc1 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
+["0.3.0-rc1 roblox".dependencies]
+debugger = [{ name = "lumin/debugger", version = "^0.5.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+rojo = [{ name = "pesde/rojo", version = "^7.4.4", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "dev"]
+scripts = [{ name = "pesde/scripts_rojo", version = "^0.1.0", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "dev"]
+spr = [{ name = "2jammers/spr", version = "^2.1.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+stylua = [{ name = "pesde/stylua", version = "^2.0.1", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "dev"]
