@@ -1,0 +1,15 @@
+["2.1.0 roblox"]
+published_at = "2024-12-15T04:25:35.473093151Z"
+description = "Small and fast motion library"
+license = "MIT"
+authors = ["Fraktality"]
+repository = "https://github.com/Fraktality/spr"
+
+["2.1.0 roblox".target]
+environment = "roblox"
+lib = "src/init.luau"
+build_files = ["src"]
+
+["2.1.0 roblox".dependencies]
+rojo = [{ name = "pesde/rojo", version = "^7.4.4", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "dev"]
+scripts = [{ name = "pesde/scripts_rojo", version = "^0.1.0", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "dev"]
