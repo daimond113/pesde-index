@@ -69,3 +69,20 @@ build_files = ["src"]
 
 ["0.1.10 roblox".dependencies]
 threadpool = [{ name = "caveful_games/threadpool", version = "^0.1.9", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+
+["0.2.0 roblox"]
+published_at = "2024-12-16T15:24:23.866493852Z"
+description = "A fork of LemonSignal with additional features added"
+license = "MIT"
+authors = ["Aspecky", "Sona", "jiwonz"]
+repository = "https://github.com/CavefulGames/LimeSignal"
+
+["0.2.0 roblox".target]
+environment = "roblox"
+lib = "src/lib.luau"
+build_files = ["src"]
+
+["0.2.0 roblox".dependencies]
+rojo = [{ name = "pesde/rojo", version = "^7.4.4", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "dev"]
+scripts = [{ name = "pesde/scripts_rojo", version = "^0.1.0", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "dev"]
+threadpool = [{ name = "caveful_games/threadpool", version = "^0.1.9", index = "https://github.com/daimond113/pesde-index" }, "standard"]
