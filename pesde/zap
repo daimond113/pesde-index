@@ -12,3 +12,18 @@ bin = "init.luau"
 core = [{ name = "pesde/toolchainlib", version = "^0.1.2", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "standard"]
 option = [{ name = "lukadev_0/option", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
 result = [{ name = "lukadev_0/result", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+
+["0.6.16 lune"]
+published_at = "2024-12-16T06:35:24.081310395Z"
+description = "A lightning fast networking solution for roblox."
+authors = ["CompeyDev <hi@devcomp.xyz>", "Redblox Organization"]
+repository = "https://github.com/pesde-pkg/tooling/tree/main/bins/zap"
+
+["0.6.16 lune".target]
+environment = "lune"
+bin = "init.luau"
+
+["0.6.16 lune".dependencies]
+core = [{ name = "pesde/toolchainlib", version = "^0.1.3", index = "https://github.com/daimond113/pesde-index", target = "lune" }, "standard"]
+option = [{ name = "lukadev_0/option", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+result = [{ name = "lukadev_0/result", version = "^1.2.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
