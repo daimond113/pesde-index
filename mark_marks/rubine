@@ -27,3 +27,18 @@ lib = "lib/init.luau"
 ["0.1.0-rc.2 luau".dependencies]
 jabby = [{ wally = "wally#alicesaidhi/jabby", version = "^0.2.0-rc.5", index = "https://github.com/UpliftGames/wally-index" }, "dev"]
 jecs = [{ name = "mark_marks/jecs_pesde", version = "^0.4.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
+
+["0.1.0-rc.3 luau"]
+published_at = "2024-12-18T17:10:47.760308506Z"
+description = "An ergonomic, runtime agnostic scheduler for jecs"
+license = "MIT"
+authors = ["marked/Mark-Marks"]
+repository = "https://github.com/mark-marks/rubine"
+
+["0.1.0-rc.3 luau".target]
+environment = "luau"
+lib = "lib/init.luau"
+
+["0.1.0-rc.3 luau".dependencies]
+jabby = [{ wally = "wally#alicesaidhi/jabby", version = "^0.2.0-rc.5", index = "https://github.com/UpliftGames/wally-index" }, "dev"]
+jecs = [{ name = "mark_marks/jecs_pesde", version = "^0.4.0", index = "https://github.com/daimond113/pesde-index" }, "standard"]
